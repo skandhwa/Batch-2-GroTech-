@@ -1,0 +1,36 @@
+1>Text box
+2>Checkbox
+3>text area
+4>radio button
+5>drop downs
+6>sliders
+7>button
+8>link
+
+
+Find Element 
+
+Find Elements
+
+sendKeys----> in order to pass some value inside a text box 
+clear----> to clear up the values written in textbox or text area
+click()----> To click on a specific web element we will use this
+
+isDisplayed---> When the element is displayed on a web page it will return true , in case element is not displayed it thrown u an exception 
+
+
+isEnabled---->When the element is being freezed out in a web page then in that case it will return false
+in case element is present and enabled on a web page it will return true 
+
+
+
+isSelected
+
+submit---> to click on final submit button on  a web page /u can use click also 
+
+
+
+
+
+
+
